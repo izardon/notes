@@ -1,4 +1,7 @@
 # **The New New Product Development Game**
+
+[![hackmd-github-sync-badge](https://hackmd.io/4cnN_jtbTbWJE_3Zo5cZOA/badge)](https://hackmd.io/4cnN_jtbTbWJE_3Zo5cZOA)
+
 https://hbr.org/1986/01/the-new-new-product-development-game
 
 > ![](https://i.imgur.com/89cmjiv.png)
