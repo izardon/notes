@@ -2,7 +2,7 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/4cnN_jtbTbWJE_3Zo5cZOA/badge)](https://hackmd.io/4cnN_jtbTbWJE_3Zo5cZOA)
 
-###### tags: Agile
+###### tags: `Agile`
 
 https://hbr.org/1986/01/the-new-new-product-development-game
 
